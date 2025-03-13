@@ -1,0 +1,15 @@
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/bin/Debug/net9.0/question1
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/bin/Debug/net9.0/question1.deps.json
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/bin/Debug/net9.0/question1.runtimeconfig.json
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/bin/Debug/net9.0/question1.dll
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/bin/Debug/net9.0/question1.pdb
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/obj/Debug/net9.0/question1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/obj/Debug/net9.0/question1.AssemblyInfoInputs.cache
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/obj/Debug/net9.0/question1.AssemblyInfo.cs
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/obj/Debug/net9.0/question1.csproj.CoreCompileInputs.cache
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/obj/Debug/net9.0/question1.sourcelink.json
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/obj/Debug/net9.0/question1.dll
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/obj/Debug/net9.0/refint/question1.dll
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/obj/Debug/net9.0/question1.pdb
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/obj/Debug/net9.0/question1.genruntimeconfig.cache
+/Users/baoha/Desktop/Aptech/sem2/c-sharp/semester2_c-/question1/question1/obj/Debug/net9.0/ref/question1.dll
